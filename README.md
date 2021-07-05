@@ -1,24 +1,15 @@
-# simon-game
+# Проект: simon-game.
 
-## Project setup
-```
-npm install
-```
+В проекте используются:
+1. HTML.
+2. CSS.
+3. JavaScript.
+4. Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+В проекте поддерживается:
+1. Возможность поиграть в игру "Simon game".
+2. Возможность настроить игру "Simon game".
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Проект - реализации на Vue.js следующего проекта https://github.com/kellyk/javascript-simon.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Проект доступен по ссылке https://firetimeloop.github.io/mesto/
